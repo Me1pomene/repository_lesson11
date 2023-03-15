@@ -1,6 +1,6 @@
 def upper(string):
     '''
-    Функция переводит все слово в верхний регистр...
+    Функция переводит слова в верхний регистр
     '''
     return print(string.upper())
 
@@ -14,6 +14,3 @@ string = input('Введите слово')
 
 upper(string)
 upper_fun(string)
-
-def print_one():
-    return "Привет"
