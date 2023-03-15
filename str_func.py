@@ -1,4 +1,7 @@
 def upper(string):
+    '''
+    Функция переводит все слово в верхний регистр
+    '''
     return print(string.upper())
 
 def upper_fun(string):
