@@ -14,3 +14,6 @@ string = input('Введите слово')
 
 upper(string)
 upper_fun(string)
+
+def print_one():
+    return "Привет"
